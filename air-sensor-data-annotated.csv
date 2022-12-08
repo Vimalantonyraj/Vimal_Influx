@@ -1,5 +1,4 @@
 #datatype,string,long,dateTime:RFC3339,double,string,string,string
-#default,_result,,,,,,
 ,result,table,_time,_value,_field,_measurement,sensor_id
 ,,0,2022-12-08T10:05:48Z,0.4826563615240938,co,airSensors,TLM0100
 ,,0,2022-12-08T10:05:58Z,0.4729480100555764,co,airSensors,TLM0100

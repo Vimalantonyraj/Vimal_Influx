@@ -1,4 +1,3 @@
-#group,false,false,false,false,true,true,true
 #datatype,string,long,dateTime:RFC3339,double,string,string,string
 #default,_result,,,,,,
 ,result,table,_time,_value,_field,_measurement,sensor_id
